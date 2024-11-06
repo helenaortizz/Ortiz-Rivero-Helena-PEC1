@@ -13,11 +13,13 @@ Este proyecto es parte de la primera Prueba de Evaluación Continua (PEC 1) de l
 
 El repositorio contiene los siguientes archivos:
 
-- **analisis_datos.R**: Script principal en R que contiene todo el código para el análisis de datos.
-- **DataValues_S013.txt**: Datos clínicos y metabolómicos en formato de texto (.txt).
+- **(Informe) Ortiz-Rivero-Helena-PEC1.pdf**: informe en formato .pdf
+- **(Código en R) Ortiz-Rivero-Helena-PEC1.R**: Script principal en R que contiene todo el código para el análisis de datos.
+- **(Datos) Ortiz-Rivero-Helena-PEC1**: Datos clínicos y metabolómicos en formato de texto (.txt).
+- - **(Metadatos) Ortiz-Rivero-Helena-PEC1.md**: Archivo de metadatos que describe las variables y archivos del dataset.
 - **Summarized_Experiment.Rda**: Objeto `SummarizedExperiment` en formato binario, que contiene los datos organizados para el análisis en R.
-- **metadatos.md**: Archivo de metadatos que describe las variables y archivos del dataset.
-- **Informe.pdf**: informe en formato .pdf
+- **(Informe) Ortiz-Rivero-Helena-PEC1.pdf**: informe en formato .pdf.
+- **(Html) Ortiz-Rivero-Helena-PEC1.html**: : infrome en formato .html.
 
 ## Objetivos del Proyecto
 
